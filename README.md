@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I'm Joseph backend developer from Uzbekistan
+#### I'm currently learning Flutter
 <!--
 **zephgrow/zephgrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
