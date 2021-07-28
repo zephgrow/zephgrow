@@ -1,6 +1,5 @@
 ### Hi there 👋
-### I'm Joseph, 22 y.o. backend developer from Uzbekistan
-#### I'm currently learning Flutter also.
+### I'm Yusufjon, 22 y.o. backend developer from Uzbekistan
 <!--
 **zephgrow/zephgrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
